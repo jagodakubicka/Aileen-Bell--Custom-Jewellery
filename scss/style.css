@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans:ital@1&display=swap");
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: #e4dcdc;
+  font-family: 'PT Sans', sans-serif;
+}
+
+img {
+  width: 100%;
+  display: block;
+}
+
+.header-img h1 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 5vw;
+}
+/*# sourceMappingURL=style.css.map */
